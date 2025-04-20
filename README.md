@@ -1,2 +1,2 @@
 # newrepo
-author- yamini rathi
+author- yamini
